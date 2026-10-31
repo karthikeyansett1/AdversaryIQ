@@ -3,6 +3,7 @@
 # 🛡️ AdversaryIQ
 
 ### A cloud-hosted workbench for prompt-injection testing and AI security evaluation
+**[🚀 Live Demo](https://adversaryiq-bosepecphf3jprmo2n3jtz.streamlit.app/)** · **[Features](#features)** · **[Getting Started](#getting-started)**
 
 **[Overview](#overview)** · **[Architecture](#system-architecture)** · **[Attack Studio](#attack-studio)** · **[Evaluation](#evaluation-methodology)** · **[Getting Started](#getting-started)** · **[Deployment](#cloud-deployment)**
 
